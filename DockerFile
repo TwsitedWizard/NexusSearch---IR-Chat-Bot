@@ -1,0 +1,11 @@
+# Use a base image with Java (Eclipse Temurin is a great choice)
+FROM eclipse-temurin:17-jre-jammy
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the built .jar file from our target folder into the container
+COPY target/nexussearch-0.0.1-SNAPSHOT.jar app.jar
+
+# Tell Docker what command to run when the container starts
+ENTRYPOINT ["java", "-jar", "app.jar"]
