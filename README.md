@@ -2,7 +2,7 @@
 
 An AI-Powered Conversational Information Retrieval System built with Spring Boot and the Google Gemini & Search APIs.
 
-![NexusSearch Demo](docs/demo.jpg) 
+
 ---
 
 ### 🔴 Live Demo
