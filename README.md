@@ -38,26 +38,6 @@ git clone [https://github.com/your-username/NexusSearch.git](https://github.com/
 cd NexusSearch
 ```
 
-### 💻 Running Locally
-
-To run this project on your local machine, you will need to set up three API keys.
-
-#### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/NexusSearch.git](https://github.com/your-username/NexusSearch.git)
-cd NexusSearch
-```
-
-### 💻 Running Locally
-
-To run this project on your local machine, you will need to set up three API keys.
-
-#### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/NexusSearch.git](https://github.com/your-username/NexusSearch.git)
-cd NexusSearch
-```
-
 #### 2. Obtain API Keys
 
 You need to get **three** keys in total:
