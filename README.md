@@ -4,11 +4,6 @@ An AI-Powered Conversational Information Retrieval System built with Spring Boot
 
 
 ---
-
-### 🔴 Live Demo
-
-**(Link to your deployed Render app will go here)**
-
 ---
 
 ### 💡 Core Features
@@ -40,7 +35,8 @@ To run this project on your local machine, you will need to set up three API key
 #### 1. Clone the Repository
 ```bash
 git clone [https://github.com/your-username/NexusSearch.git](https://github.com/your-username/NexusSearch.git)
-cd NexusSearch```
+cd NexusSearch
+```
 
 ### 💻 Running Locally
 
@@ -49,7 +45,8 @@ To run this project on your local machine, you will need to set up three API key
 #### 1. Clone the Repository
 ```bash
 git clone [https://github.com/your-username/NexusSearch.git](https://github.com/your-username/NexusSearch.git)
-cd NexusSearch```
+cd NexusSearch
+```
 
 ### 💻 Running Locally
 
